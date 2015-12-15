@@ -1,0 +1,35 @@
+{
+  "name": "chute_challenge",
+  "version": "0.0.0",
+  "description": "Chute coding challenge",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "express": "^4.4.5"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-nodemon": "^2.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "react",
+    "challenge",
+    "chute"
+  ],
+  "author": "kevinrogerteng",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "engines" : {
+    "node" : "0.12.x"
+  }
+}
